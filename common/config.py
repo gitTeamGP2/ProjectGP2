@@ -1,4 +1,4 @@
-SMS_SENDSMS = "https://open.ucpaas.com/ol/sms/{function}"
+SMS_SENDSMS = "https://open.ucpaas.com/ol/sms/sendsms"
 MOBILE_NONE_SMS = {
     "sid": 'd003afa86b13be853e57b6031c8cf02f',
     "token": '9bff067b54a88f7c0b97bff69f518498',
